@@ -23,8 +23,9 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Auto366](https://github.com/CyrilGuoCODE/Auto366) | 自动化效率工具，每日进步(一点点 | Python |
-| [MessageIn](https://github.com/CyrilGuoCODE/MessageIn) | 消息聚合与分发平台 | Node.js / Vue |
+| [Auto366](https://github.com/CyrilGuoCODE/Auto366) | 自动化效率工具，每日进步(一点点 | ELectron |
+| [MessageIn](https://github.com/CyrilGuoCODE/MessageIn) | 消息聚合与分发平台 | Electron / Python |
+| [GreenWeb](https://github.com/CyrilGuoCODE/greenweb) | 测试网站碳排 | Vue / Node.js |
 
 ---
 
