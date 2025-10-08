@@ -23,9 +23,10 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Auto366](https://github.com/CyrilGuoCODE/Auto366) | 自动化效率工具，每日进步(一点点 | ELectron |
+| [Auto366](https://github.com/CyrilGuoCODE/Auto366) | 自动化效率工具，每日进步(一点点 | ELectron / MITMPROXY |
 | [MessageIn](https://github.com/CyrilGuoCODE/MessageIn) | 消息聚合与分发平台 | Electron / Python |
 | [GreenWeb](https://github.com/CyrilGuoCODE/greenweb) | 测试网站碳排 | Vue / Node.js |
+| [Code2Word](https://github.com/CyrilGuoCODE/code2word) | 快速将代码转为WORD文档 | Electron |
 
 ---
 
@@ -40,7 +41,6 @@
 
 ## Latest Activity / 最近动态
 
-- 聚光灯 2025 GameJam
 - 正在开发 [MessageIN](https://github.com/CyrilGuoCODE/Messagein)
 
 ---
