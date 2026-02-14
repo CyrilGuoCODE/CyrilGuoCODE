@@ -58,11 +58,10 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
-## 📬 Contact / 联系方式
+## Contact / 联系方式
 
 - Email: [cyril_0614@163.com](mailto:cyril_0614@163.com)
 - Blog: [Cyril.qzz.io](https://cyril.qzz.io)
